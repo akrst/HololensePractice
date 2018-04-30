@@ -48,6 +48,8 @@ public class CarController : MonoBehaviour, IInputClickHandler, IManipulationHan
 
 		this.speed = swipeLength * 2.0f;
 		Debug.Log (this.speed);
+
+		GetComponent<AudioSource> ().Play ();
 	}
 
 	public void OnManipulationCanceled(ManipulationEventData eventData)
