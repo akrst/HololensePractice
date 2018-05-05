@@ -2464,7 +2464,7 @@ GameObject:
   - component: {fileID: 11499414}
   - component: {fileID: 11401954}
   - component: {fileID: 114593871428788132}
-  - component: {fileID: 114112524522221044}
+  - component: {fileID: 114225833337719860}
   m_Layer: 0
   m_Name: Keyboard
   m_TagString: Untagged
@@ -26280,7 +26280,7 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 146120}
   m_IsPrefabParent: 1
---- !u!114 &114112524522221044
+--- !u!114 &114225833337719860
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
