@@ -8,7 +8,7 @@
 HololensePractice.sln: F533D1E7B98A785C5D0AAC0FBA4C9285
 HololensePractice\App.cs: modified
 HololensePractice\HololensePractice.csproj: 10305BD294213240194DC030200E0DF7
-HololensePractice\HololensePractice.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+HololensePractice\HololensePractice.csproj.user: modified
 HololensePractice\Package.appxmanifest: 656F3BE19DCE4ABD93C4133B0D7AC1FE
 HololensePractice\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HololensePractice\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
@@ -24,5 +24,6 @@ HololensePractice\bin\x86\Debug\AppX\Assets\Square44x44Logo.targetsize-24_altfor
 HololensePractice\bin\x86\Debug\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 HololensePractice\bin\x86\Debug\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
 HololensePractice\bin\x86\Debug\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+HololensePractice\obj\x86\Debug\HololensePractice.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
 HololensePractice\Properties\AssemblyInfo.cs: modified
 HololensePractice\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
