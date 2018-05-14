@@ -9,7 +9,7 @@ HololensePractice.sln: F533D1E7B98A785C5D0AAC0FBA4C9285
 HololensePractice\App.cs: modified
 HololensePractice\HololensePractice.csproj: 10305BD294213240194DC030200E0DF7
 HololensePractice\HololensePractice.csproj.user: modified
-HololensePractice\Package.appxmanifest: 656F3BE19DCE4ABD93C4133B0D7AC1FE
+HololensePractice\Package.appxmanifest: F77CF64BF1034A12C62D21156FD111A0
 HololensePractice\project.json: 1D02BC64BAC0D041019673A1C4C51737
 HololensePractice\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 HololensePractice\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
