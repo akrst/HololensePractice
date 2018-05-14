@@ -17,6 +17,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Unity5text4.unity
     guid: 7360881b4c9c8fe4ea7f2319a1d96494
-  - enabled: 1
+  - enabled: 0
     path: Assets/SceneSelectUI.unity
     guid: 2a01ad90790bd87479526d70c217d513
