@@ -5,6 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/AmplifyShaderEditor/AmplifyShader.unity
     guid: 3d50f5f6920cb6d4f8ced39cff97cb40
+  - enabled: 1
+    path: Assets/StartScene2018-05-29.unity
+    guid: 7541ca96819208d4a9bb49a1d1bbebed
+  - enabled: 1
+    path: Assets/TeleportFade.unity
+    guid: c364695d34b82994299a57ee4df5cdca
